@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/hillako/Documents/Unreal Projects/embark/Embark/Content/Levels/Environment.umap",
+				"C:/Users/hillako/Documents/Unreal Projects/embark/Embark/Content/__ExternalActors__/Levels/Environment/9/OF/Y6AV1E07XI6234563RVX8R.uasset",
+				"C:/Users/hillako/Documents/Unreal Projects/embark/Embark/Content/__ExternalActors__/Levels/Environment/9/53/7G1WMKZGWYIMZC4N562B41.uasset",
+				"C:/Users/hillako/Documents/Unreal Projects/embark/Embark/Content/Blueprints/Widgets/WBP_CC_Code.uasset",
+				"C:/Users/hillako/Documents/Unreal Projects/embark/Embark/Content/Assets/2D/RenderTarget_ProfilePicture.uasset",
+				"C:/Users/hillako/Documents/Unreal Projects/embark/Embark/Content/__ExternalActors__/Levels/Environment/3/PM/PRMYF5JKA87SA2LKOWYPJD.uasset",
 				"D:/ProjectGames/UnrealProjects/embark/Embark/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
 				"D:/ProjectGames/UnrealProjects/embark/Embark/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"D:/ProjectGames/UnrealProjects/embark/Embark/Content/TopDown/Blueprints/BP_TopDownController.uasset",
