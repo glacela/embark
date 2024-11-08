@@ -20,5 +20,12 @@
 *.umap filter=lfs -diff merge=lfs -text
 *.upk filter=lfs -diff merge=lfs -text
 *.udk filter=lfs -diff merge=lfs -text
+*.uplugin filter=lfs -diff merge=lfs -text
+*.build filter=lfs -diff merge=lfs -text
+*.h filter=lfs -diff merge=lfs -text
+*.cpp filter=lfs -diff merge=lfs -text
+*.modules filter=lfs -diff merge=lfs -text
+*.dll filter=lfs -diff merge=lfs -text
+*.pdb filter=lfs -diff merge=lfs -text
 *.duf filter=lfs -diff merge=lfs -text
 *.blend filter=lfs -diff merge=lfs -text
