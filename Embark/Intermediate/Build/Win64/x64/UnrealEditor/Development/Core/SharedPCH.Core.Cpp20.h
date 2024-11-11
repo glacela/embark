@@ -1,3 +1,3 @@
-// PCH for Runtime/Core/Public/CoreSharedPCH.h
-#include "C:/Users/hillako/Documents/Unreal Projects/embark/Embark/Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/SharedDefinitions.Core.Cpp20.h"
-#include "Runtime/Core/Public/CoreSharedPCH.h"
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f54180d13e90e92f1b45930f051eb8fcef44a7bfae2c406da8bacaf8f70a77
+size 255

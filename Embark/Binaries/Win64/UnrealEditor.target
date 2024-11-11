@@ -6498,6 +6498,30 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/CustomizableInteractionPlugin/Binaries/Win64/UnrealEditor-CustomizableInteractionPlugin.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/CustomizableInteractionPlugin/Binaries/Win64/UnrealEditor-CustomizableInteractionPlugin.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/CustomizableInteractionPlugin/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/SimpleInventorySystem_5.4/Binaries/Win64/UnrealEditor-SimpleInventorySystem.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/SimpleInventorySystem_5.4/Binaries/Win64/UnrealEditor-SimpleInventorySystem.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/SimpleInventorySystem_5.4/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Media/AjaMedia/Binaries/Win64/UnrealEditor-AjaCore.dll",
 			"Type": "DynamicLibrary"
 		},

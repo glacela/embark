@@ -1,3 +1,3 @@
-// PCH for Editor/UnrealEd/Public/UnrealEdSharedPCH.h
-#include "C:/Users/hillako/Documents/Unreal Projects/embark/Embark/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.RTTI.Cpp20.h"
-#include "Editor/UnrealEd/Public/UnrealEdSharedPCH.h"
+version https://git-lfs.github.com/spec/v1
+oid sha256:622f9a28023bf7b04da348e66de3d7c186864bf96a0200757fffe6b83b0b2a3d
+size 282

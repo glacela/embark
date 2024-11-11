@@ -1,3 +1,3 @@
-// PCH for Runtime/Slate/Public/SlateSharedPCH.h
-#include "C:/Users/hillako/Documents/Unreal Projects/embark/Embark/Intermediate/Build/Win64/x64/UnrealEditor/Development/Slate/SharedDefinitions.Slate.Cpp20.h"
-#include "Runtime/Slate/Public/SlateSharedPCH.h"
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba07d41cb1dfbbf699f68e2d4a26f12972924b470b9e76a49ebd875c20afe6c8
+size 261
