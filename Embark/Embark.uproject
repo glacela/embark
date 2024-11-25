@@ -29,44 +29,9 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WiseFeline",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/67f2fe104ebb4bfe8ae556b21e7d771b"
-		},
-		{
-			"Name": "ElementusInventory",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ed47993a6b8a49bdb04dfe83939b6361"
-		},
-		{
-			"Name": "GenericEffectsSystem",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d684f032827a439eb2c9900d1a5e8709"
-		},
-		{
-			"Name": "NinjaGAS",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/5200fc7c-2cb4-4a2e-a204-8200cebab05d"
-		},
-		{
-			"Name": "GmGameplayAbilitySystem",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c0e3fece3f4c4fa0a28e5dbc17020987"
-		},
-		{
-			"Name": "AAA_HealthSystem",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/0d95a1d2df0044f2aa97f53f4f2ef2d3"
-		},
-		{
 			"Name": "SimpleInventorySystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/69276853b46e4f11931b80d22a9e82dd"
-		},
-		{
-			"Name": "n00dInteract",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4adc946b0fc94b5390d444c0c5c3ea69"
 		},
 		{
 			"Name": "PCGGeometryScriptInterop",
