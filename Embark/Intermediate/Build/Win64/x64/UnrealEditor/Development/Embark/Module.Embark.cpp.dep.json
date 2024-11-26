@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\hillako\\documents\\unreal projects\\embark\\embark\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\embark\\module.embark.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hillako\\documents\\unreal projects\\embark\\embark\\intermediate\\build\\win64\\x64\\embarkeditor\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\hillako\\documents\\unreal projects\\embark\\embark\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\embark\\definitions.embark.h",
+            "c:\\users\\hillako\\documents\\unreal projects\\embark\\embark\\intermediate\\source\\embark.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

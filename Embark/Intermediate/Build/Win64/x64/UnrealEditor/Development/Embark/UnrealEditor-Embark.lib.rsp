@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Embark.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\hillako\Documents\Unreal Projects\Embark\Embark\Intermediate\Build\Win64\x64\EmbarkEditor\Development\Core\SharedPCH.Core.Project.ValApi.Cpp20.h.obj"
+"C:\Users\hillako\Documents\Unreal Projects\Embark\Embark\Intermediate\Build\Win64\x64\UnrealEditor\Development\Embark\Module.Embark.cpp.obj"
+"C:\Users\hillako\Documents\Unreal Projects\Embark\Embark\Intermediate\Build\Win64\x64\UnrealEditor\Development\Embark\Default.rc2.res"
+/OUT:"C:\Users\hillako\Documents\Unreal Projects\Embark\Embark\Intermediate\Build\Win64\x64\UnrealEditor\Development\Embark\UnrealEditor-Embark.lib"
