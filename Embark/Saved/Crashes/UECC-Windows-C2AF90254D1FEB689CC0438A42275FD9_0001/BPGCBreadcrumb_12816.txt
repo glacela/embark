@@ -1,2 +1,0 @@
-/Game/Blueprints/BP_Widgets/WBP_CC_Code.Default__WBP_CC_Code_C
-/Game/Blueprints/BP_Widgets/WBP_CC_Code.WBP_CC_Code_C

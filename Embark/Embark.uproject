@@ -13,7 +13,7 @@
 		},
 		{
 			"Name": "CustomizableInteractionPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/customizable-interaction-plugin"
 		},
 		{
@@ -30,7 +30,7 @@
 		},
 		{
 			"Name": "SimpleInventorySystem",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/69276853b46e4f11931b80d22a9e82dd"
 		},
 		{
@@ -53,5 +53,8 @@
 			"Name": "Water",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
